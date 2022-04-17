@@ -6,7 +6,7 @@
 
 @font-face {
   font-family: Mostwasted;
-  src: url(./Mostwasted.ttf);
+  src: url(Mostwasted.ttf);
 }
 
 
@@ -139,7 +139,7 @@ a:hover {
   color: var(--clr-primary);
 }
 .logo {
-  font-family: 'Mostwasted';
+  font-family: Mostwasted;
   font-size: 2.5rem;
   padding: 0 2rem;
 } 
