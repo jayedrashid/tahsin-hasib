@@ -5,8 +5,8 @@
 }
 
 @font-face {
-  font-family: Mostwasted;
-  src: url(Mostwasted.ttf);
+  font-family: 'Most Wasted';
+  src: url('Mostwasted.ttf') format('truetype');
 }
 
 
@@ -139,7 +139,7 @@ a:hover {
   color: var(--clr-primary);
 }
 .logo {
-  font-family: Mostwasted;
+  font-family: 'Most Wasted';
   font-size: 2.5rem;
   padding: 0 2rem;
 } 
@@ -316,12 +316,6 @@ a:hover {
   .home-content .home__col2 {
     margin: 0 auto;
   }
-  /* .home__col2 .section__title--home {
-    font-size: 2.5rem;
-  }
-  .home-content .home__col2 h1 strong {
-    font-size: var(--fs-h2);
-  } */
   .home-content .home__col2 h1 {
     font-size: 1.5rem;
   }
